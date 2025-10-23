@@ -18,18 +18,18 @@ I – Interface Segregation Principle (ISP)
 D – Dependency Inversion Principle (DIP)
 
 
-❌ Before refactoring: Code that violates the principle.
-✅ After refactoring: Clean, compliant implementation.
-📄 Detailed reports explaining the problem and solution.
-🖼️ PlantUML diagrams (in documentation) showing structural changes.
-🚀 How to Use This Repository
-1. Study the Examples
-Browse the code to see how common design flaws are fixed using SOLID.
+❌ Before refactoring: Code that violates the principle.  
+✅ After refactoring: Clean, compliant implementation.  
+📄 Detailed reports explaining the problem and solution.  
+🖼️ PlantUML diagrams (in documentation) showing structural changes.  
+🚀 How to Use This Repository  
+1. Study the Examples  
+Browse the code to see how common design flaws are fixed using SOLID.  
 
-2. Run the Code
-All examples are self-contained Java classes. You can run them directly in any IDE (IntelliJ, Eclipse, VS Code).
+2. Run the Code  
+All examples are self-contained Java classes. You can run them directly in any IDE (IntelliJ, Eclipse, VS Code).  
 
-💡 Note: Some "before" versions intentionally throw exceptions or crash—this demonstrates the problem. 
+💡 Note: Some "before" versions intentionally throw exceptions or crash—this demonstrates the problem.   
 
 3. Generate UML Diagrams
 Use any PlantUML editor (e.g., PlantText ) to visualize the class diagrams included in the documentation.
