@@ -35,21 +35,21 @@ All examples are self-contained Java classes. You can run them directly in any I
 Use any PlantUML editor (e.g., PlantText ) to visualize the class diagrams included in the documentation.
 
 4. Apply to Your Projects
-Use these patterns to refactor your own codebases and improve design quality.
+Use these patterns to refactor your own codebases and improve design quality.  
 
 📝 Key Takeaways
 SRP
 One class = one reason to change
-Easier maintenance, fewer bugs
+Easier maintenance, fewer bugs  
 OCP
 Extend, don’t modify
-Safe feature additions
+Safe feature additions  
 LSP
 Subtypes must be substitutable
-Reliable polymorphism
+Reliable polymorphism  
 ISP
 Many client-specific interfaces > one fat interface
-Reduced coupling, no dummy methods
+Reduced coupling, no dummy methods  
 DIP
 Depend on abstractions, not concretions
-Decoupled, testable architecture
+Decoupled, testable architecture  
